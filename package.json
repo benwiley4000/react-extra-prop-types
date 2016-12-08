@@ -1,0 +1,33 @@
+{
+  "name": "react-extra-prop-types",
+  "version": "0.1.0",
+  "description": "Extra PropTypes for use with React components",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/benwiley4000/react-extra-prop-types.git"
+  },
+  "keywords": [
+    "react",
+    "props",
+    "proptypes",
+    "proptype",
+    "integer",
+    "int",
+    "color",
+    "hex",
+    "date",
+    "datetime",
+    "uuid",
+    "extra"
+  ],
+  "author": "Ben Wiley",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/benwiley4000/react-extra-prop-types/issues"
+  },
+  "homepage": "https://github.com/benwiley4000/react-extra-prop-types#readme"
+}
