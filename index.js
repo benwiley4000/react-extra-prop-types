@@ -6,6 +6,6 @@ var uuid = require('./lib/uuid');
 module.exports = {
   integer: integer,
   color: color,
-  datetime, datetime,
+  datetime: datetime,
   uuid: uuid
 };
