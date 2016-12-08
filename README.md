@@ -1,8 +1,8 @@
 # react-extra-prop-types
 
-Includes some additional React [PropTypes](https://facebook.github.io/react/docs/typechecking-with-proptypes.html) for common use cases.
+Includes some additional React [PropTypes](https://facebook.github.io/react/docs/typechecking-with-proptypes.html) for common use cases. No dependencies.
 
-No dependencies.
+[![NPM](https://nodei.co/npm/react-extra-prop-types.png)](https://npmjs.org/package/react-extra-prop-types)
 
 ## PropTypes
 
