@@ -23,9 +23,6 @@ var uuid = ExtraPropTypes.uuid;
 // or ...
 var color = require('react-extra-prop-types/lib/color');
 var uuid = require('react-extra-prop-types/lib/uuid');
-
-// or ... (ES2015+ only)
-import { color, uuid } from 'react-extra-prop-types';
 ```
 
 ### use just like normal `PropTypes`
