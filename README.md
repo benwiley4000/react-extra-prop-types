@@ -37,3 +37,11 @@ MyReactComponent.propTypes = {
   lastFetchTime: ExtraPropTypes.datetime
 };
 ```
+
+### props are optional unless `.isRequired` is used
+
+```javascript
+MyReactComponent.propTypes = {
+  id: ExtraPropTypes.integer.isRequired // can't be left out
+};
+```
