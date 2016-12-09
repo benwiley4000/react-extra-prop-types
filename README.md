@@ -45,3 +45,7 @@ MyReactComponent.propTypes = {
   id: ExtraPropTypes.integer.isRequired // can't be left out
 };
 ```
+
+## Development
+
+See [CONTRIBUTING.md](CONTRIBUTING.md).
